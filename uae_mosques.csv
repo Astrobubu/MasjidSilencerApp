@@ -1,4 +1,4 @@
-Name,Latitude,Longitude
+name,lat,lng
 Unnamed Mosque 1,25.1512373,55.2157272
 Unnamed Mosque 2,24.5412156,54.6348818
 Maysaloon Mosque,25.3604516,55.4058511
@@ -3731,6 +3731,7 @@ Unnamed Mosque 3729,24.5066401,55.0750721
 Masjid,22.8326623,55.3242547
 Unnamed Mosque 3731,25.2031412,51.5510922
 MyHome, 25.194157, 55.562952
+
 
 
 
