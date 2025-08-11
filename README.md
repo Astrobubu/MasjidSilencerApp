@@ -16,12 +16,9 @@
 
 ##  Screenshots
 
-
-### Home
-![alt text](https://github.com/Astrobubu/MasjidSilencerApp/blob/main/screenshot1.jpg) 
-
-### Settings
-![alt text](https://github.com/Astrobubu/MasjidSilencerApp/blob/main/screenshot2.jpg) 
+| Main screen | Side screen |
+|---|---|
+| ![Home screen](https://github.com/Astrobubu/MasjidSilencerApp/blob/main/screenshot1.jpg) | ![Settings screen](https://github.com/Astrobubu/MasjidSilencerApp/blob/main/screenshot2.jpg) |
 
 ---
 
@@ -67,5 +64,6 @@ flutter run              # launch on a device / emulator
 \## License
 
 [MIT](LICENSE) © 2025 Akhmad K.
+
 
 
